@@ -1,0 +1,6 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\ReflectionPractTask\bin\Debug\ReflectionPractTask.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\ReflectionPractTask\bin\Debug\ReflectionPractTask.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\ReflectionPractTask\bin\Debug\ReflectionPractTask.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\ReflectionPractTask\obj\Debug\ReflectionPractTask.csprojResolveAssemblyReference.cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\ReflectionPractTask\obj\Debug\ReflectionPractTask.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\ReflectionPractTask\obj\Debug\ReflectionPractTask.pdb

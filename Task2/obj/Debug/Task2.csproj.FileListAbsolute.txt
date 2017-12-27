@@ -1,0 +1,5 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\Task2\bin\Debug\Task2.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\Task2\bin\Debug\Task2.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\Task2\bin\Debug\Task2.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\Task2\obj\Debug\Task2.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\ReflectionPractTask\Task2\obj\Debug\Task2.pdb
