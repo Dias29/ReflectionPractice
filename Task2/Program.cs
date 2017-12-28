@@ -11,13 +11,22 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Type list = typeof(List<>);
-            Type[] types = new Type[1];
-            types[0] = typeof(object);
+            //Type list = typeof(List<>);
+            //Type[] types = new Type[1];
+            //types[0] = typeof(object);
 
-            ConstructorInfo info = list.GetConstructor(new Type[] {typeof(object)});
+            //ConstructorInfo info = list.GetConstructors()
 
-            Console.WriteLine("Конструкторы класса List<object> : " + info.ToString());
+            //Console.WriteLine("Конструкторы класса List<object> : " + info.ToString());
+            //Console.ReadLine();
+
+            //void ConstructorReflectInfo<T> (T obj) where T : List<>
+            //{
+                Type t = typeof(List<>);
+                ConstructorInfo con = t.GetConstructor(Type.EmptyTypes);
+                Console.WriteLine(t.ToString());
+            //}
+
             Console.ReadLine();
         }
     }
